@@ -5,7 +5,7 @@ Multimodal image fusion plays a crucial role in complex scenarios such as nightt
 
 
 ### Training
-**1. Recommended Environment
+1. Recommended Environment
  - [ ] einops == 0.4.1
  - [ ] h5py == 3.11.0
  - [ ] kornia == 0.2.0

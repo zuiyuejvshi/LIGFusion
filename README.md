@@ -29,7 +29,6 @@ Run
 python traincls.py
 python train1.py
 python train2.py
-
 ``` 
 and the trained model is available in ``'./models/'``.
 

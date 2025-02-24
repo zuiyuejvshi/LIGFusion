@@ -1,0 +1,10 @@
+einops==0.4.1
+h5py==3.11.0
+kornia==0.2.0
+numpy==1.24.4
+opencv_python==4.11.0.86
+scikit_image==0.19.2
+timm==0.6.12
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.60.0
